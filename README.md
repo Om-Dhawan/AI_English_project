@@ -21,6 +21,6 @@
 - How to see my location?
 - Tell me about my english teacher.
 
-## Link to use
+## Link to access
 
 https://omdvn.github.io/English_AI/
