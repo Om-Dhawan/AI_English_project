@@ -23,4 +23,4 @@
 
 ## Link to access
 
-https://omdvn.github.io/English_AI/
+https://om-dhawan.github.io/AI_English_project/
